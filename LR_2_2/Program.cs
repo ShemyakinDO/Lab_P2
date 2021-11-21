@@ -6,7 +6,7 @@ namespace LR_2_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, Andrew");
         }
     }
 }
